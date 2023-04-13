@@ -1,0 +1,10 @@
+(sym_lib_table
+  (lib (name "LPC1768")(type "KiCad")(uri "${KIPRJMOD}/LPC1768.kicad_sym")(options "")(descr ""))
+  (lib (name "NRF24L01")(type "KiCad")(uri "${KIPRJMOD}/NRF24L01.kicad_sym")(options "")(descr "")(disabled))
+  (lib (name "NRF24L01_jsb")(type "KiCad")(uri "${KIPRJMOD}/NRF24L01_jsb.kicad_sym")(options "")(descr ""))
+  (lib (name "mpu9250_jsb")(type "KiCad")(uri "${KIPRJMOD}/mpu9250_jsb.kicad_sym")(options "")(descr ""))
+  (lib (name "BATHOLE")(type "KiCad")(uri "${KIPRJMOD}/BATHOLE.kicad_sym")(options "")(descr ""))
+  (lib (name "AO9926")(type "KiCad")(uri "${KIPRJMOD}/AO9926/AO9926.kicad_sym")(options "")(descr ""))
+  (lib (name "motorPin")(type "KiCad")(uri "${KIPRJMOD}/New Library/motorPin.kicad_sym")(options "")(descr ""))
+  (lib (name "tp8350")(type "KiCad")(uri "${KIPRJMOD}/New Library/tp8350.kicad_sym")(options "")(descr ""))
+)
